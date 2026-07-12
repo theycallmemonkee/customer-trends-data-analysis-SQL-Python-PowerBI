@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # 🛍️ Customer Shopping Behavior Analysis
 
 An end-to-end data analytics project focused on understanding customer purchasing patterns using **Python, SQL, and Data Visualization**. This project analyzes customer shopping behavior to uncover actionable business insights that can help improve sales, customer engagement, and decision-making.
@@ -28,8 +30,7 @@ The objective of this project is to analyze customer shopping data and provide m
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
+- Power Bi
 - SQL
 - Jupyter Notebook
 
